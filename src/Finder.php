@@ -11,4 +11,9 @@ class Finder {
     {
         return 'Fuck off!';
     }
+
+    public function sayGood(): string
+    {
+        return 'Good bye!';
+    }
 }
