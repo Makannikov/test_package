@@ -6,4 +6,9 @@ class Finder {
     {
         return 'Hello amigos!';
     }
+
+    public function sayBad(): string
+    {
+        return 'Fuck off!';
+    }
 }
